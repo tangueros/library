@@ -3,7 +3,7 @@
 <head>
 <meta charset='utf-8'>
 <meta content='width=device-width, initial-scale=1, shrink-to-fit=no' name='viewport'>
-<title>About Phusion</title>
+<title>Tango: The Art History of Love</title>
 <meta content='an awesome playground' name='description'>
 <meta content='tech, ideas, invent, problem-solver' name='keywords'>
 <meta content='' name='author'>
@@ -22,38 +22,38 @@
 
 <link crossorigin='anonymous' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' rel='stylesheet'>
 <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
-<link href="../assets/css/local.css" rel="stylesheet" />
+<link href="../../../../assets/css/local.css" rel="stylesheet" />
 
 
 
 
 </head>
-<body class='page-about'>
+<body class='page-'>
 <nav class='navbar navbar-expand-md fixed-top navbar-dark bg-dark'>
 <div class='container'>
-<a href="../" class="navbar-brand">Tango Library</a>
+<a href="../../../../" class="navbar-brand">Tango Library</a>
 <button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
 <span class='navbar-toggler-icon'></span>
 </button>
 <div class='collapse navbar-collapse' id='navbarSupportedContent'>
 <ul class='navbar-nav ml-auto'>
 <li class='nav-item'>
-<a href="../" class="nav-link">Home</a>
+<a href="../../../../" class="nav-link">Home</a>
 </li>
 <li class='nav-item'>
-<a href="../news/" class="nav-link">News</a>
+<a href="../../../../news/" class="nav-link">News</a>
 </li>
 <li class='nav-item'>
-<a href="./" class="nav-link">About</a>
+<a href="../../../../about/" class="nav-link">About</a>
 </li>
 <li class='nav-item'>
-<a href="../contact/" class="nav-link">Contact</a>
+<a href="../../../../contact/" class="nav-link">Contact</a>
 </li>
 <li class='nav-item'>
-<a href="../sitemap.xml" class="nav-link">Sitemap</a>
+<a href="../../../../sitemap.xml" class="nav-link">Sitemap</a>
 </li>
 <li class='nav-item'>
-<a href="../feed.xml" class="nav-link">Feed</a>
+<a href="../../../../feed.xml" class="nav-link">Feed</a>
 </li>
 </ul>
 </div>
@@ -61,31 +61,39 @@
 </nav>
 
 <main role='main'>
-<div class='container'>
-<h1>
-About Phusion
-</h1>
+<article class='container'>
+<h1 class='entry-title'>Tango: The Art History of Love</h1>
 <p>
-We are a garden for apps
+<time class='caps published' datetime='2011-10-29 00:00:00'>
+2011-10-29 00:00:00 +0800
+</time>
 </p>
-<div id='headtalk'>
-<div class='loading'></div>
+<main class='main hentry' role='main'>
+<div class='row'>
+<div class='col'>
+<img src="../../../../assets/img/covers/art-history-love.jpg" class="img img-thumbnail" style="height:15rem;" alt="Art history love" />
 </div>
-<p>
-Hope to hear from you!
-</p>
+<div class='col'>
+<div class='entry-content'><p>In this generously illustrated book, world-renowned Yale
+art historian Robert Farris Thompson gives us the definitive
+account of tango,
+&quot;the fabulous dance of the past hundred years --
+and the most beautiful, in the opinion of Martha Graham.”</p>
+
+<p>Thompson traces tango’s evolution in the nineteenth century
+under European, Andalusian-Gaucho, and African influences
+through its representations by Hollywood and dramatizations
+in dance halls throughout the world.
+He shows us tango not only as brilliant choreography but
+also as text, music, art, and philosophy of life.
+Passionately argued and unparalleled in its research,
+its synthesis, and its depth of understanding,
+Tango: The Art History of Love is a monumental achievement.</p>
 </div>
-<!-- templates -->
-<script id='mytemplate' type='text/x-handlebar-templates'>
-<table class='table table-bordered'>
-{{#each .}}
-<tr>
-<td>{{name}}</td>
-<td>{{age}}</td>
-</tr>
-{{/each}}
-</table>
-</script>
+</div>
+</div>
+</main>
+</article>
 
 </main>
 <!-- FOOT BAR -->
@@ -125,20 +133,6 @@ Hope to hear from you!
   }
 </script>
 
-<script>
-  function myReady(){
-    //var api = 'http://db.tangueros.net/fb/gf/348726108583892';
-    //$.getJSON( api ).done( function(info) {
-    //  transform('#mytemplate', '#headtalk', info.data);
-    //
-    var data=[
-      {"name": "John", "age": 30},
-      {"name": "Mary", "age": 21}
-    ];
-    transform('#mytemplate', '#headtalk', data);
-  }
-  $(document).ready(myReady());
-</script>
 
 </body>
 </html>

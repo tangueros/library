@@ -14,20 +14,32 @@ per_page: 12
       - if prev_page
         %p= link_to 'Previous page', prev_page
 
-    %h3 Tango Cynic
+    %h3 Tango Books
     %ul.list-group
-      - page_articles.each_with_index do |article, i|
-        - v = article.data[:video]
-        %li.list-group-item
-          .row
-            .col
-              %img.img-thumbnail.float-left.mr-2{:style=>"width:10rem;",
-                :alt=>"video",
-                :src=>"http://img.youtube.com/vi/#{v}/0.jpg"}
+      %li.list-group-item
+        .row
+          - page_articles.each_with_index do |article, i|
+            - if article.data.thumb
+              - pix = "thumbs/" + article.data.thumb
+            - if article.data.cover
+              - pix = "covers/" + article.data.cover
+            .col-4
+              = link_to article do
+                = image_tag pix,
+                  :class=>"img img-thumbnail",
+                  :style=>"height:8rem;"
               %h5.card-title
-                = link_to article.title, article, :class=>"card-link"
-              %i
-                = article.date.strftime('%Y %b %e')
+                = link_to article, :class=>"card-link" do
+                  %b= article.title
+                  %br
+                  by
+                  = article.data.author
+                  %br
+                  (
+                  %i= article.data.year
+                  )
+
+              / article.date.strftime('%Y %b %e')
               -#= article.summary(250) #if nokogiri installed
               -# article.body
               -# article.summary(100,'>>')

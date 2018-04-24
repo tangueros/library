@@ -5,693 +5,85 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2011-11-19T11:00:00-05:00</updated>
+  <updated>2011-10-28T12:00:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>The ten tango commandments</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/11/top-ten-commandments/"/>
-    <id>http://blog.url.com/post/2011/11/top-ten-commandments/</id>
-    <published>2011-11-19T11:00:00-05:00</published>
-    <updated>2018-04-03T17:25:30-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Everything as fundamental to life as tango needs a moral code...&lt;/p&gt;
-
-&lt;h2&gt;transcript&lt;/h2&gt;
-
-&lt;p&gt;Have you lost your way in this world?&lt;/p&gt;
-
-&lt;p&gt;This big world or tango which leaves so many of us with existential
-unanswered questions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Who am I?&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Why can&amp;#39;t I walk like Sebastian Achaval?&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Do I really have an axis?&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Should I be going to an advanced workshop after eight weeks of learning
-tango?&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Why do I look like a 10 year old hanging from a supermarket trolley
-whenever I attempt to Colgada?&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;And what on earth is a Colgada in the first place?&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fear not my brother.&lt;/p&gt;
-
-&lt;p&gt;My name is Kurt.
-I am your local tango evangelist and I have got some answers for you.&lt;/p&gt;
-
-&lt;p&gt;My ten tango commandments are all you need for a life of bliss and
-happiness for the rest of your dancing days.&lt;/p&gt;
-
-&lt;p&gt;Now lean back and listen well:&lt;/p&gt;
-
-&lt;h3&gt;First commandment&lt;/h3&gt;
-
-&lt;p&gt;Tango and tango alone is your God.
-Don&amp;#39;t even think about mentioning salsa or swing.&lt;/p&gt;
-
-&lt;h3&gt;Second commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not put moving images of yourself practising tango on YouTube.
-They may be used against you when you have long forgotten about them.&lt;/p&gt;
-
-&lt;h3&gt;Third commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not use the name of tango in vain --
-especially not in association with anything remotely resembling
-fishnet stockings, roses, ballroom dancing, or Antonio Banderas.&lt;/p&gt;
-
-&lt;h3&gt;Fourth commandment&lt;/h3&gt;
-
-&lt;p&gt;Remember the Sabbath.
-Six days of tango per week are quite enough.
-There is another form of life out there, in case you forgot.&lt;/p&gt;
-
-&lt;h3&gt;Fifth commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt honor your father and your mother.
-Spare them from the trauma of listening to your tales of perfect
-tandas and the chemistry of a good embrace.
-They wouldn&amp;#39;t understand.&lt;/p&gt;
-
-&lt;h3&gt;Sixth commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not murder.
-Ladies, keep the control flows on the floor.&lt;/p&gt;
-
-&lt;h3&gt;Seventh commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not commit adultery.
-Resist the temptation that all those smiles, compliments, and
-tender embraces in the tango world seem to suggest.&lt;/p&gt;
-
-&lt;h3&gt;Eighth commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not steal teacher&amp;#39;s moves from the internet.
-He looks cool doing them; you will look like an idiot.&lt;/p&gt;
-
-&lt;h3&gt;Ninth commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not bear false witness.
-Cut down on the insincere compliments,
-but if you have to bitch about everyone on the dance floor,
-at least do it discreetly.&lt;/p&gt;
-
-&lt;h3&gt;Tenth commandment&lt;/h3&gt;
-
-&lt;p&gt;Thou shalt not covet your neighbor&amp;#39;s instructional DVD,
-your DJ&amp;#39;s new Canaro CD, or your teacher&amp;#39;s black and white
-tango shoes -- get your own.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Tango truths: why men dance and women sit</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/10/why-man-dance-woman-sit/"/>
-    <id>http://blog.url.com/post/2011/10/why-man-dance-woman-sit/</id>
+    <title>The Tao of Tango</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/10/tao-of-tango/"/>
+    <id>http://blog.url.com/post/2011/10/tao-of-tango/</id>
     <published>2011-10-28T12:00:00-04:00</published>
-    <updated>2018-04-03T18:54:55-04:00</updated>
+    <updated>2018-04-24T01:48:26-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;Just another night at a big city milonga&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;em&gt;I&amp;#39;m meeting all the wrong people.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2&gt;transcript&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Nobody listens to me.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A: Hey man, good to see you.
-How are things?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My temper is out of control.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;B: All good, thanks.  And yourself?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Men find me &amp;quot;intimidating&amp;quot;.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A: Couldn&amp;#39;t be better.
-The work is done for the week and now it&amp;#39;s tango
-all night long.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Women think I&amp;#39;m a &amp;quot;wuss&amp;quot;.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;B: Look at all those gorgeous followers sitting over there.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I can&amp;#39;t seem to finish anything.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A: Amazing!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How can I be a better friend/lover/boss/whatever?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;B: Awesome.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;My male/female energies are out of balance.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A: There is a new lady too.  Have you seen her before?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What the heck are male and female energies?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;B: Never, but I heard she is from Detroit.
-You should dance with her.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;And what does Tango have to do with any of this?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;A: I should, but I&amp;#39;ll wait until I have seen her dance.
-Better safe than sorry.  Why don&amp;#39;t you ask her first?&lt;/p&gt;
+&lt;p&gt;With its thoughtful, light-hearted insights and simple
+physical exercises this book will help you achieve
+the coveted &amp;quot;balance&amp;quot; that affects every aspect of your life.
+Discover how this 100-year-old dance can lead you to a more
+balanced life.&lt;/p&gt;
 
-&lt;p&gt;B: I should, but I had to work through my virtual
-favorites list: DiSarli with Jessica, D&amp;#39;Arienzo with
-Francesca,  a vals tanda with Jill.
-I am booked for an hour.&lt;/p&gt;
-
-&lt;p&gt;A: I know, mate, it&amp;#39;s tough being a guy.
-If I don&amp;#39;t dance with my usual ladies, I get the nasty
-looks next milonga.&lt;/p&gt;
-
-&lt;p&gt;(&lt;em&gt;one hour later&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;A: How is the list going?&lt;/p&gt;
-
-&lt;p&gt;B: I am through most of my compulsory dances.
-Look at this: the new lady still hasn&amp;#39;t danced yet.&lt;/p&gt;
-
-&lt;p&gt;A: That&amp;#39;s horrible.
-Poor lady, she probably traveled for hours to get here.
-You should ask her for a dance.&lt;/p&gt;
-
-&lt;p&gt;B: I should, but it&amp;#39;s a milonga tanda.
-That&amp;#39;s never a good set to start with.&lt;/p&gt;
-
-&lt;p&gt;A: I agree.&lt;/p&gt;
-
-&lt;p&gt;(&lt;em&gt;A new girl enters&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;A: Holy jesus!&lt;/p&gt;
-
-&lt;p&gt;B: God almighty!&lt;/p&gt;
-
-&lt;p&gt;A: Who is this? Look at those legs,&lt;/p&gt;
-
-&lt;p&gt;B: And the long hair.
-She can&amp;#39;t be older than 25, and the skirt hardly
-covers her bum.
-Tasteless, but why not.&lt;/p&gt;
-
-&lt;p&gt;A: Look! The way she just smiled at me.
-I have no idea who she is, but I will dance
-with her right now.&lt;/p&gt;
-
-&lt;p&gt;B: She was clearly looking at me,
-so excuse me momentarily.&lt;/p&gt;
-
-&lt;p&gt;(&lt;em&gt;one hour later&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;B: Wow.&lt;/p&gt;
-
-&lt;p&gt;A: Huh? That was hard work.
-I followed her around for an hour to be in a good position
-for a cabeceo but it worked in the end.&lt;/p&gt;
-
-&lt;p&gt;B: Tell me about it.
-It seems all the men have gone bonkers all of a sudden.
-How was it?&lt;/p&gt;
-
-&lt;p&gt;A: Her dancing is rubbish.
-But with those legs, who cares?
-She is hot, I tell you.&lt;/p&gt;
-
-&lt;p&gt;B: Look, our lady from Detroit still hasn&amp;#39;t danced.
-That&amp;#39;s criminal. Why don&amp;#39;t you dance with her?&lt;/p&gt;
-
-&lt;p&gt;A: I should, but this is Troilo playing,
-it&amp;#39;s really not my cup of tea.&lt;/p&gt;
-
-&lt;p&gt;B: Fair enough.
-It&amp;#39;s not my favorite either.
-Oh excuse me, I think I just got a cabeceo from Kelly.&lt;/p&gt;
-
-&lt;p&gt;(&lt;em&gt;one hour later. La Cumparsita. last tanda.&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;B: Wow, the evening went fast.
-It&amp;#39;s hard work keeping the ladies happy.&lt;/p&gt;
-
-&lt;p&gt;A: I hear you.
-We selflessly give away our tango gift for the greater good.&lt;/p&gt;
-
-&lt;p&gt;B: Did you notice: the lady from Detroit finally danced
-a tanda?&lt;/p&gt;
-
-&lt;p&gt;A: Yes. With Floyd the furniture mover.
-Not exactly the stuff tango dreams are made of.&lt;/p&gt;
-
-&lt;p&gt;B: Poor lady. She actually dances very nicely.
-She deserves better than that.&lt;/p&gt;
-
-&lt;p&gt;A: Yes. Floyd told me that she is a tango teacher.&lt;/p&gt;
-
-&lt;p&gt;B: that tango teacher?
-Bloody Floyd!
-Couldn&amp;#39;t he have asked her for a dance earlier?&lt;/p&gt;
+&lt;p&gt;Even if you can&amp;#39;t dance.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>The loneliness of the long dancing milonguera</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/09/loneliness-long-milonguera/"/>
-    <id>http://blog.url.com/post/2011/09/loneliness-long-milonguera/</id>
-    <published>2011-09-12T12:00:00-04:00</published>
-    <updated>2018-04-23T11:09:42-04:00</updated>
+    <title>Tango: The Art History of Love</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/10/tango-art-history-love/"/>
+    <id>http://blog.url.com/post/2011/10/tango-art-history-love/</id>
+    <published>2011-10-28T12:00:00-04:00</published>
+    <updated>2018-04-24T01:25:00-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;For all those on a quest for tango perfection!&lt;/p&gt;
+    <content type="html">&lt;p&gt;In this generously illustrated book, world-renowned Yale
+art historian Robert Farris Thompson gives us the definitive
+account of tango,
+&amp;quot;the fabulous dance of the past hundred years --
+and the most beautiful, in the opinion of Martha Graham.”&lt;/p&gt;
 
-&lt;h2&gt;transcript&lt;/h2&gt;
-
-&lt;p&gt;A: Priscila, you are my hero!
-From the first time I saw you, I admired you on the
-dance floor -- your grace, your elegance,
-your posture, the way you walk.
-You are my tango ????.
-Your adornos have the graceful touch of a butterfly.
-Your boleos are sharp as a Swiss Army knife.
-Men line up to get a dance with you.
-Priscilla, I want to dance like you.
-Show me how to achieve happiness through tango!&lt;/p&gt;
-
-&lt;p&gt;Priscilla: Happiness? What makes you think the tango
-is the way to happiness?
-What could I give to be in your shoes once again --
-not the junky tango clogs you are wearing,
-but metaphorically speaking.&lt;/p&gt;
-
-&lt;p&gt;A: I began tango just a year ago.
-I was an average middle-class intellectual with a
-PhD in continental philosophy, and a burning desire for
-self-fulfillment.
-I have since divested myself of worldly matters:
-the education of my kids,
-the well-being of my husband,
-and my friends.
-In the big picture of the universe, they matter little.
-But I need to sort out those boleos.&lt;/p&gt;
-
-&lt;p&gt;P: You are on the quest for perfection?&lt;/p&gt;
-
-&lt;p&gt;A: Utter perfection.&lt;/p&gt;
-
-&lt;p&gt;P: Show them ???&lt;/p&gt;
-
-&lt;p&gt;A: ???&lt;/p&gt;
-
-&lt;p&gt;P: Desperate Housewives have shown us that ambition
-in the pursuit of perfection is a slippery slope.&lt;/p&gt;
-
-&lt;p&gt;A: Where else but in tango can we feel so
-beautiful as we strive for perfection?&lt;/p&gt;
-
-&lt;p&gt;P: Let me give you a reality check, darling.
-I have danced with the best dancers in the world.
-I have experienced perfection.
-Everything that follows is a disappointment.
-These days I enter a milonga and I witness the shrill
-cacophony of bodies consulting each
-other at the worst possible moment in the music.
-I see otherwise respectable middle-aged people
-entangling their lower bodies as if they had been
-studying the Kama Sutra.
-And strong emetic reflexes take hold of me.&lt;/p&gt;
-
-&lt;p&gt;A: But who cares about them?
-You are the best dancer in town --
-who would not want to be like you?&lt;/p&gt;
-
-&lt;p&gt;P: Nobody, darling, nobody.
-I have spent countless hours perfecting my dance with
-the best teachers.
-I spent most of my yearly income on tango --
-and what for?
-Now I see abject misery once I set foot through the door.
-It&amp;#39;s like walking through the streets of Dickensian London.
-Bad posture, bad balance, bad centre,
-bad musicality, bad floor craft,
-lack of dynamics, of variation, and subtlety in the dance.
-I see the seedy underbelly of tango wherever I go.&lt;/p&gt;
-
-&lt;p&gt;A: But you are a tango VIP.
-You get first class treatment wherever you go.
-Dancers will travel for hours if you announce your
-arrival on Facebook.
-While I only get dances with bottom-feeders.&lt;/p&gt;
-
-&lt;p&gt;P: Tango is a game of diminishing returns, darling.
-First you dance with everyone who comes up to you.
-Then you prefer to dance with 3 or 4 people in your city.
-Then you go to the next bigger city, until you end up
-with another three or four people.
-Not for me.
-Unless I cross oceans for a dance
-and travel to the other side of the world,
-I cannot motivate myself to go out of the house.&lt;/p&gt;
-
-&lt;p&gt;A: You are not suggesting I become a Sunday afternoon
-tea and cookie dancer?&lt;/p&gt;
-
-&lt;p&gt;P: You are the philosopher.
-Schopenhauer knew that
-your ambition for tango perfection was futile.
-He knew that you would never be as good as the
-YouTube stars you admire.
-Tango ambition will only lead to loneliness and bitterness.&lt;/p&gt;
-
-&lt;p&gt;A: Priscilla, what am I to do?&lt;/p&gt;
-
-&lt;p&gt;P: Get a cat, or a hunky lover.
-Or moved to Buenos Aires.&lt;/p&gt;
+&lt;p&gt;Thompson traces tango’s evolution in the nineteenth century
+under European, Andalusian-Gaucho, and African influences
+through its representations by Hollywood and dramatizations
+in dance halls throughout the world.
+He shows us tango not only as brilliant choreography but
+also as text, music, art, and philosophy of life.
+Passionately argued and unparalleled in its research,
+its synthesis, and its depth of understanding,
+Tango: The Art History of Love is a monumental achievement.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Facebook envy -- a tango perspective</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/05/facebook-envy/"/>
-    <id>http://blog.url.com/post/2011/05/facebook-envy/</id>
-    <published>2011-05-19T12:00:00-04:00</published>
-    <updated>2018-04-04T08:58:34-04:00</updated>
+    <title>Tango and Chaos</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/10/tango-and-chaos/"/>
+    <id>http://blog.url.com/post/2011/10/tango-and-chaos/</id>
+    <published>2011-10-28T12:00:00-04:00</published>
+    <updated>2018-04-24T01:57:43-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;Following the daily updates on the exploits of our
-dear tango friends fills us with joy and happiness!
-Or does it?&lt;/p&gt;
-
-&lt;h2&gt;transcript&lt;/h2&gt;
-
-&lt;p&gt;Why am I here, when everybody else has gone home?
-Why do I have to prepare this stupid portfolio for
-tomorrow when I could be dancing tango?&lt;/p&gt;
-
-&lt;p&gt;Oh, there is a new message for me on Facebook.
-Let&amp;#39;s take a look. What is Sharon writing here?&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;I am having a great time at Nora&amp;#39;s tango week.
-Tango dancing doesn&amp;#39;t get any better than this.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;I see. And what is this? &amp;quot;Elton loves milongas in
-New York&amp;quot;.&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;So many good followers.
-Murat and Michelle were amazing.
-Have been going to bed at 5am every morning.
-I am in tango heaven.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Gosh.&lt;/p&gt;
-
-&lt;p&gt;What is it with those tango people?
-Do they not have a real life?
-Why am I sitting here at work when all these
-people are enjoying themselves?&lt;/p&gt;
-
-&lt;p&gt;This one is from Priscilla.  Of course she is in
-Buenos Aires -- where else.&lt;/p&gt;
-
-&lt;p&gt;She says: &amp;quot;Oh my god!
-Francisco danced three tandas in a row with me,
-last night at Practica X.
-You all know what this means, smiley face.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;I have no idea what it means, but I don&amp;#39;t care.
-Tango blasphemy means swapping your life,
-a successful active professional woman, for that of a
-smiling, subordinate, follower who gratefully receives
-the crumbs that the Priscilla&amp;#39;s of this world leave
-behind.&lt;/p&gt;
-
-&lt;p&gt;Ah, and here is Kurt.
-Obviously Kurt never really wanted me, not for tango anyway.
-Of course I was stupid enough to fall for a tango alpha male.&lt;/p&gt;
-
-&lt;p&gt;What is he writing?
-Kurt&amp;#39;s schedule for the next three weeks --
-Berlin tango festival,
-Capri tango festival,
-Syracuse tango festival,
-Montreal tango festival.
-Disgusting!&lt;/p&gt;
-
-&lt;p&gt;Where do these people get their holidays from?
-Who pays them all the money to jet set around the world
-and dance tango?
-Do they not work? Do they not have to go shopping,
-do the washing, and bring the kids to school?
-Do they not have to pay off a mortgage?
-And why am I here filing tax returns?
-I hate my life.&lt;/p&gt;
-
-&lt;p&gt;This message is from Enrique Blanco, or Henry White as
-he was known before he started tango.
-He too is in Buenos Aires.
-My god, is there no other destination on earth?&lt;/p&gt;
-
-&lt;p&gt;He writes: &amp;quot;Have just completed a one-week seminar with
-Gustavo Naveira.  He has taken my tango to a whole new
-level!&amp;quot;
-Ah, and here he is in a picture arm-in-arm with his
-teacher, smiling at the world.&lt;/p&gt;
-
-&lt;p&gt;Bastard! Perfect boleo.  Perfect milongas.
-Perfect dancers. Perfectly nimble bodies and
-perfect teachers everywhere.
-It&amp;#39;s like living in Wisteria Lane!&lt;/p&gt;
-
-&lt;p&gt;My boleos suck. My bum looks big in everything.
-I don&amp;#39;t call any famous tango dancer my friend.
-Javier Rodriguez has never hugged me.
-What&amp;#39;s worse my tango teacher is about as inspiring as a
-tax auditor.
-What is wrong with me?
-Where do I find the shiny tango glamour world?&lt;/p&gt;
-
-&lt;p&gt;Maybe tango happiness comes only to those who seek it.&lt;/p&gt;
-
-&lt;p&gt;What shall we write? Okay!&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;I am having an awesome time at the Barcelona tango
-festival!
-Last night I danced 3 tandas with... erm...
-how shall we call him?
-Three tenders with Lorenzo...
-You all know what that means...
-Smiley face.&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Or maybe I should simply delete my Facebook account.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How authentic is your tango?</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/05/how-authentic-tango/"/>
-    <id>http://blog.url.com/post/2011/05/how-authentic-tango/</id>
-    <published>2011-05-06T12:00:00-04:00</published>
-    <updated>2018-04-23T09:53:29-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;As you would expect from a religion, tango heaven
-awaits those who follow the traditions.
-As for the rest - your local tango High Priest is
-watching you!&lt;/p&gt;
-
-&lt;h2&gt;transcript&lt;/h2&gt;
-
-&lt;p&gt;Krupke: Hey you! Yes I mean you, punk.
-I have been meaning to have a word with you for
-a long time.&lt;/p&gt;
-
-&lt;p&gt;Anton: Hey Mr. Krupke. My name is Anton.&lt;/p&gt;
-
-&lt;p&gt;K: I don&amp;#39;t care what your name is.
-But I know that you are one of those tango nuevo punks
-who have been sabotaging this milonga lately.
-This used to be a beautiful place, here at the west side
-milonga -- traditional tango music, discreet and
-well-dressed people, decorum on the dance floor --
-and then you lot came along.&lt;/p&gt;
-
-&lt;p&gt;A: And what happened?&lt;/p&gt;
-
-&lt;p&gt;K: People with dreadlocks, beards, and baggy trousers
-started appearing.
-They are asking for ridiculous music, and they are
-dancing boleos and gachos as if they were auditioning for
-Cirque du Soleil.  It&amp;#39;s like a social disease.&lt;/p&gt;
-
-&lt;p&gt;A: I am not sure that I can follow you.
-What is the problem with that?&lt;/p&gt;
-
-&lt;p&gt;K: The problem is that is has nothing to do with
-authentic tango.&lt;/p&gt;
-
-&lt;p&gt;A: Can you define authentic tango for me?&lt;/p&gt;
-
-&lt;p&gt;K: Yes. Authentic tango is tango as it was danced in
-Buenos Aires during the Golden Age, in the 1930s and 1940s.&lt;/p&gt;
-
-&lt;p&gt;A: So you were declaring that tango is dead?&lt;/p&gt;
-
-&lt;p&gt;K: We are trying to preserve true tango against delinquents
-like yourself.
-You punks have no respect --
-women dancing with women,
-men dancing with men. It&amp;#39;s like a whorehouse.&lt;/p&gt;
-
-&lt;p&gt;A: Of course none of these things ever featured in the
-history of tango...&lt;/p&gt;
-
-&lt;p&gt;K: You punk just need some respect for the traditions.&lt;/p&gt;
-
-&lt;p&gt;A: So you think just because you put on a suit,
-play a song from the 1940s, and call your shuffling
-milonguero style, you are preserving tango?&lt;/p&gt;
-
-&lt;p&gt;K: The dancers back then surely did not look like
-terrorists on the run.
-And they did not dance to Tom Waits either.&lt;/p&gt;
-
-&lt;p&gt;A: The dancers back then surely did not arrive at the
-milonga in a BMW convertible wearing a $2,000 Armani suit.&lt;/p&gt;
-
-&lt;p&gt;K: What are you saying?&lt;/p&gt;
-
-&lt;p&gt;A: I am saying that dressing up like an Argentine when you
-are not, and pretending that you understand the culture
-when you have visited a few tourist circuits milongas in
-Buenos Aires makes you about as authentically Argentinian
-as a cheeseburger.&lt;/p&gt;
-
-&lt;p&gt;K: I have been to Buenos Aires many times.
-They know me by my first name at the Confiterial Ideal.&lt;/p&gt;
-
-&lt;p&gt;A: Yeah, that&amp;#39;s a prime location for authentic tango.&lt;/p&gt;
-
-&lt;p&gt;K: At least I respect the traditions and the culture and
-that&amp;#39;s a lot more than can be said for you, my friend.&lt;/p&gt;
-
-&lt;p&gt;A: Tradition.  All I hear is follow tradition.
-Is this a religion or is it a dance?
-And are you its law-enforcement officer?
-Shouldn&amp;#39;t you be enjoying yourself as we are all trying
-to enjoy ourselves?&lt;/p&gt;
-
-&lt;p&gt;K: If you don&amp;#39;t follow the traditions of tango,
-you will never understand the dance.&lt;/p&gt;
-
-&lt;p&gt;A: Oh really?
-What will I not understand?&lt;/p&gt;
-
-&lt;p&gt;K: The unspeakable sadness of tango poetry, for example.
-Being dejected from society,
-being poor, being without prospects in life.&lt;/p&gt;
-
-&lt;p&gt;A: Well mister Krupke, while you were busy understanding
-the unspeakable sadness of tango poetry with your bad
-Spanish, while you were trying very hard to look poor.
-dejected, and without prospects in life,
-will you excuse me momentarily.
-I will invite a fellow punk for a Cirque du Soleil audition.
-And by the way Mr. Krupke -- Krup you!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Tango versus Salsa</title>
-    <link rel="alternate" href="http://blog.url.com/post/2011/04/tango-vs-salsa/"/>
-    <id>http://blog.url.com/post/2011/04/tango-vs-salsa/</id>
-    <published>2011-04-10T12:00:00-04:00</published>
-    <updated>2018-04-03T19:57:47-04:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;There is a good reason why these two exquisite dance forms
-are usually kept well away from each other.&lt;/p&gt;
-
-&lt;h2&gt;transcript&lt;/h2&gt;
-
-&lt;p&gt;T: Excuse me -- I was under the impression that there
-was a milonga here tonight.&lt;/p&gt;
-
-&lt;p&gt;S: A what?&lt;/p&gt;
-
-&lt;p&gt;T: A milonga -- you know, tango dancing?&lt;/p&gt;
-
-&lt;p&gt;S: Oh no.
-Thank God it&amp;#39;s Wednesday -- tonight is salsa night.
-Tango was yesterday.&lt;/p&gt;
-
-&lt;p&gt;T: Oh no, I missed the tango.&lt;/p&gt;
-
-&lt;p&gt;S: You should be glad. You look like you can do
-with a few happy hormones anyway.&lt;/p&gt;
-
-&lt;p&gt;T: Thank you, but salsa is really not my cup of tea.&lt;/p&gt;
-
-&lt;p&gt;S: Too much fun, right? I can always tell the difference.
-A salsa dancer comes in the room and it&amp;#39;s like:
-yay, let&amp;#39;s party.
-A tango dancer comes in with a stone face and goes,
-okay, this is so deep and meaningful, let&amp;#39;s be serious.
-It&amp;#39;s like you are all craving depression.
-Just imagine listening to music all night that goes on
-about how crappy life is.
-Salsa music on the other hand ...&lt;/p&gt;
-
-&lt;p&gt;T: Salsa music on the other hand is invariably about a
-conceited chauvinistic ass who thinks he is God&amp;#39;s gift
-to women.
-And while he sings about his poor Alma and Corazon, the
-trumpets blow your ears off twice per minute in
-celebration of his manliness.&lt;/p&gt;
-
-&lt;p&gt;S: Salsa is like a chick flick: good, predictable and
-unadulterated fun.
-Tango is like a pretentious Swedish art house movie:
-nobody gets it, but if you don&amp;#39;t want to look stupid
-afterwards, you pretend that you found it truly
-intriguing.&lt;/p&gt;
-
-&lt;p&gt;T: That must be the reason why in salsa, conversations
-start with &amp;#39;how are you&amp;#39; and they end with &amp;#39;good&amp;#39;.
-Tango people at least have something to talk about.&lt;/p&gt;
-
-&lt;p&gt;S: Like their retirement funds, or their grandchildren?&lt;/p&gt;
-
-&lt;p&gt;T: At least in tango you don&amp;#39;t have to fight off sleazebags
-all night long, who want to give you private lessons, and
-send you 50 text messages the next day saying how
-beautiful you are.&lt;/p&gt;
-
-&lt;p&gt;S: It is kind of cute.&lt;/p&gt;
-
-&lt;p&gt;T: It&amp;#39;s tacky. Tango is like making love, salsa is
-like having sex -- no subtlety.
-I am a grown-up woman and not a teenager.&lt;/p&gt;
-
-&lt;p&gt;S: What do you mean tacky?&lt;/p&gt;
-
-&lt;p&gt;T: I am NOT looking at anyone. (&lt;em&gt;folds arms
-and stare at B&amp;#39;s dress&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;S: Women in salsa look sexy.
-Women in tango look like a sack of potatoes hanging
-from the neck of a guy who could be their father.&lt;/p&gt;
-
-&lt;p&gt;T: In ten years when you get your first wrinkles and the
-saggy bum, the womanizing salsa gods you dance with
-now will still seduce twenty year olds.&lt;/p&gt;
-
-&lt;p&gt;S: In ten years the men you dance with will be
-spoon-fed by a nurse.&lt;/p&gt;
-
-&lt;p&gt;T: Oh my god. What is this?&lt;/p&gt;
-
-&lt;p&gt;S: Ah, you are lucky -- they are dancing bachata tango.
-Now you can show us your moves.&lt;/p&gt;
-
-&lt;p&gt;T: This has got to be a bad marketing ploy --
-salsa people wanting to add some spice and passion with
-a few ganchos? That&amp;#39;s almost as bad as Zumba.&lt;/p&gt;
-
-&lt;p&gt;S: I love Zumba.&lt;/p&gt;
-
-&lt;p&gt;T: One day they will even come up with a salsa version of
-El Choclo.&lt;/p&gt;
-
-&lt;p&gt;S: Did you know that the corn cob in El Choclo is really
-just a phallic symbol?&lt;/p&gt;
-
-&lt;p&gt;T: Um no I did not.&lt;/p&gt;
-
-&lt;p&gt;S: Now is that tacky or what?
-But don&amp;#39;t worry -- I am NOT looking at anyone.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Rick McGarrey visited Buenos Aires to learn tango in 2004.
+This is his experience.&lt;/p&gt;
 </content>
   </entry>
 </feed>

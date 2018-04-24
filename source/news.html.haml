@@ -1,0 +1,39 @@
+---
+title: News
+pageclass: news
+
+pageable: true
+per_page: 12
+---
+.container
+  %main.main(role="main")
+
+    - if paginate && num_pages > 1
+      %p
+        Page #{page_number} of #{num_pages}
+      - if prev_page
+        %p= link_to 'Previous page', prev_page
+
+    %h3 Tango Cynic
+    %ul.list-group
+      - page_articles.each_with_index do |article, i|
+        - v = article.data[:video]
+        %li.list-group-item
+          .row
+            .col
+              %img.img-thumbnail.float-left.mr-2{:style=>"width:10rem;",
+                :alt=>"video",
+                :src=>"http://img.youtube.com/vi/#{v}/0.jpg"}
+              %h5.card-title
+                = link_to article.title, article, :class=>"card-link"
+              %i
+                = article.date.strftime('%Y %b %e')
+              -#= article.summary(250) #if nokogiri installed
+              -# article.body
+              -# article.summary(100,'>>')
+              -#= link_to 'Read More..', article
+
+    - if paginate
+      - if next_page
+        %hr/
+        %p= link_to 'Next page', next_page
